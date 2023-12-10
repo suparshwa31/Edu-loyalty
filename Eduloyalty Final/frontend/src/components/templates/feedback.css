@@ -1,0 +1,60 @@
+/* feedback.css */
+
+/* General styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f6f6f6;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container-xl {
+    margin-top: 30px;
+  }
+  
+  /* Feedback form styles */
+  .feedback-form {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .feedback-form h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #333333;
+  }
+  
+  .feedback-form label {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    color: #555555;
+  }
+  
+  .feedback-form textarea {
+    min-height: 200px;
+    font-size: 1.2em;
+    padding: 10px;
+    resize: vertical;
+    color: #333333;
+    border: 1px solid #cccccc;
+  }
+  
+  .feedback-form .btn-primary {
+    font-size: 1.2em;
+    padding: 10px 20px;
+    background-color: #007bff;
+    border: none;
+  }
+  
+  .feedback-form .btn-primary:hover {
+    background-color: #0056b3;
+  }
+  
+  .points-earned {
+    font-size: 1.5em;
+    margin-top: 20px;
+    color: #333333;
+  }
+  
